@@ -1,6 +1,6 @@
 # Hi there, I'm Frederic 👋
 
-## I'm passionate and enjoy learning new things on my free time!
+## I enjoy learning new things on my free time!
 
 - 🌏 I’ve been mostly focused on web development so far
 - 👨🏼‍💻 I'm currently learning Typescript
