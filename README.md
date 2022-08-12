@@ -9,9 +9,7 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-guilloux85/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-guilloux85/)
+[![website](./img/LinkedIn_icon.svg)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-guilloux85/)
 
 ### Languages and Tools:
 
