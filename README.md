@@ -2,10 +2,10 @@
 
 ## I enjoy learning new things on my free time!
 
-- 🌏 I’ve been mostly focused on web development so far
-- 👨🏼‍💻 I'm currently learning Typescript
-- 🎊 2022 Goals: Build more projects and get better at Data Structures & Algorithms
-- ⚡ Fun fact: I've completed the pokedex several times
+- 🌏 I’ve been mostly focused on web development so far.
+- 👨🏼‍💻 I'm currently building my portfolio.
+- 🎊 2022 Goals: Build more projects and get better at Data Structures & Algorithms.
+- ⚡ Fun fact: I've completed the pokedex several times.
 
 ### Connect with me:
 
