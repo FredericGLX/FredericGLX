@@ -3,9 +3,6 @@
 ## I enjoy learning new things on my free time!
 
 - 🌏 I’ve been mostly focused on web development so far.
-- 👨🏼‍💻 I'm currently learning TypeScript.
-- 🎊 Next Goal: Get better at Data Structures & Algorithms.
-- ⚡ Fun fact: I've completed the pokedex several times.
 
 ### Connect with me:
 
@@ -22,3 +19,4 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="padding-right:10px;" />
